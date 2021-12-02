@@ -1,4 +1,4 @@
-## 🍁 Virtual Machine by TechieSneh🍁
+## 🍁 Virtual Machine 🍁
 
 > **[ Windows, MacOS, Linux ]  [ CPU 3core - 7GB Ram - 256 SSD ]**     
 > ## Windows 10: [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/techiesneh/VPS/blob/main/.github/workflows/Windows10.yml) <br>  MacOS: [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/techiesneh/VPS/blob/main/.github/workflows/MacOS.yml) <br> Linux Desktop: [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/techiesneh/VPS/blob/main/.github/workflows/Linux-Desktop.yml) <br> Linux SSH: [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/techiesneh/VPS/blob/main/.github/workflows/Linux-ssh.yml) 
@@ -178,12 +178,12 @@ DON'T RECODE THIS SC!
 
 
 <h3> 🎫 Licence : </h3>
-Apache 2.0 © Techie Sneh<br>
+Apache 2.0 © <br>
 
 <h3> ✉️ Contact Us : </h3>
-[Techie Sneh](https://telegram.me/techiesneh)
+[Techie Sneh](https://telegram.me/prasadkmd)
 
 <h4> Star ✨ this Repo if you Liked 👌 it ⭐⭐⭐ </h4>
 
 ---
-<h5 align='center'>© 2021 Techie Sneh</h5>
+<h5 align='center'>© 2021 SVS</h5>
